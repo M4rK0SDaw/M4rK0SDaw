@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rk0sdaw&label=Profile%20views&color=0e75b6&style=flat" alt="m4rk0sdaw" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4rk0sdaw" alt="m4rk0sdaw" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, PHP, Python.**
