@@ -2,11 +2,12 @@
 <h3 align="center">A passionate Full-Stack Developer from Spain</h3>
 
 <!-- Banner -->
+<!--
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Banner Image" width="100%" />
-</p>
+  (url)(url)<img src="https://your-banner-image-link-here" alt="Banner Image" width="100%" />
+</p>-->
 
-- 🌱 I’m currently working as a **Full-Stack Developer** with **C#**, **ASP.NET Core**, and **React**.
+- 🌱 I’m currently working as a **Full-Stack Developer** with **C#**, **ASP.NET Core**.
 - 💼 I'm working on various **web development** projects using the latest technologies.
 - 📚 I'm learning **new techniques**, exploring **cloud technologies**, and enhancing my skills in **CI/CD** pipelines.
 
@@ -18,11 +19,8 @@
   <!-- Using badges or bigger icons -->
   <img src="https://img.shields.io/badge/C%23-1f78c1?style=flat&logo=csharp&logoColor=white" alt="C#" height="30"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=aspnetcore&logoColor=white" alt="ASP.NET Core" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"/>
-  <img src="https://img.shields.io/badge/Azure-0085CA?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" height="30"/>
 </p>
 
 ---
