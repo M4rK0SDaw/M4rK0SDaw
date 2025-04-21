@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as a **Full-Stack Developer** with **C#**, **ASP.NET Core**.
 - 💼 I'm working on various **web development** projects using the latest technologies.
-- 📚 I'm learning **new techniques**, exploring **cloud technologies**, and enhancing my skills in **CI/CD** pipelines.
+- 📚 I'm learning **new techniques**.
 
 ---
 
