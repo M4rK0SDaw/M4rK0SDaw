@@ -1,50 +1,67 @@
 <h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">A passionate Full-Stack Developer from Spain</h3>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4rk0sdaw&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://your-banner-image-link-here" alt="Banner Image" width="100%" />
 </p>
 
-- 🌱 I’m currently working as a **Full-Stack Developer** using **C#** and **ASP.NET Core** for backend development, along with front-end technologies like **React**, **JavaScript**, and **CSS**.
-  
-  - **Backend**: **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, **RESTful APIs**.
-  - **Frontend**: **React**, **JavaScript**, **HTML/CSS**, **TypeScript**.
-  - **Tools & Technologies**: **Docker**, **Git**, **CI/CD pipelines**, **Azure**, **Nginx**.
-  - **Databases**: **SQL Server**, **MySQL**, **PostgreSQL**, **MongoDB** (if applicable).
+- 🌱 I’m currently working as a **Full-Stack Developer** with **C#**, **ASP.NET Core**, and **React**.
+- 💼 I'm working on various **web development** projects using the latest technologies.
+- 📚 I'm learning **new techniques**, exploring **cloud technologies**, and enhancing my skills in **CI/CD** pipelines.
 
-- 📫 You can reach me at **marek.krupoves.dev@gmail.com**
-- 🌍 Check out my portfolio: **[your-website-link.com](#)** (Optional if you have a personal website).
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/marek-krupoves" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Marek Krupoves" height="30" width="40" /></a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - Marek Krupoves" height="30" width="40" /></a>
-  <a href="https://github.com/m4rk0sdaw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Marek Krupoves" height="30" width="40" /></a>
+### 🛠️ **Languages and Tools:**
+
+<p align="center">
+  <!-- Using badges or bigger icons -->
+  <img src="https://img.shields.io/badge/C%23-1f78c1?style=flat&logo=csharp&logoColor=white" alt="C#" height="30"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=aspnetcore&logoColor=white" alt="ASP.NET Core" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"/>
+  <img src="https://img.shields.io/badge/Azure-0085CA?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" height="30"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
-</p>
+---
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rk0sdaw&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
+### 📈 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4rk0sdaw&show_icons=true&locale=en" alt="Marek's Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rk0sdaw&" alt="Marek's Streak"/>
+</p>
+
+---
+
+### 📫 **How to reach me:**
+- 📧 **Email**: [marek.krupoves.dev@gmail.com](mailto:marek.krupoves.dev@gmail.com)
+- 🔗 **LinkedIn**: [LinkedIn - Marek Krupoves](https://linkedin.com/in/marek-krupoves)
+- 💼 **Website/Portfolio**: [your-portfolio-link.com](#) (if applicable)
+
+---
+
+### 🛠️ **Current Projects:**
+
+- 🚀 **Project 1**: [Project Name](#) - Description of the project with some notable features.
+- 💡 **Project 2**: [Project Name](#) - A short project description and what you're working on.
+
+---
+
+### 👨‍💻 **More about me:**
+I'm constantly improving my skills in Full-Stack development with the latest frameworks and libraries. I'm passionate about cloud computing, DevOps, and creating scalable, secure applications. I love collaborating with other developers and learning new things every day. Feel free to check out my repositories!
+
+---
+
+### 🎯 **Fun fact**:
+I also enjoy solving **algorithm challenges** in my free time, and you might find some of my solutions in my repositories!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m4rk0sdaw&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
