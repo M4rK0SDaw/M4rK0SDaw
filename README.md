@@ -42,7 +42,7 @@
 - 💼 **Website/Portfolio**: [your-portfolio-link.com](#) (if applicable)
 
 ---
-
+<!--
 ### 🛠️ **Current Projects:**
 
 - 🚀 **Project 1**: [Project Name](#) - Description of the project with some notable features.
@@ -57,7 +57,7 @@ I'm constantly improving my skills in Full-Stack development with the latest fra
 
 ### 🎯 **Fun fact**:
 I also enjoy solving **algorithm challenges** in my free time, and you might find some of my solutions in my repositories!
-
+-->
 ---
 
 <p align="center">
