@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">A passionate Full-Stack Developer from Spain</h3>
 
-<!-- Banner -->
-<!--
-<p align="center">
-  (url)(url)<img src="https://your-banner-image-link-here" alt="Banner Image" width="100%" />
-</p>-->
-
 - 🌱 I’m currently working as a **Full-Stack Developer** with **C#**, **ASP.NET Core**.
 - 💼 I'm working on various **web development** projects using the latest technologies.
 - 📚 I'm learning **new techniques**, exploring **cloud technologies**, and enhancing my skills in **CI/CD** pipelines.
@@ -39,26 +33,8 @@
 ### 📫 **How to reach me:**
 - 📧 **Email**: [marek.krupoves.dev@gmail.com](mailto:marek.krupoves.dev@gmail.com)
 - 🔗 **LinkedIn**: [LinkedIn - Marek Krupoves](https://linkedin.com/in/marek-krupoves)
-- 💼 **Website/Portfolio**: [your-portfolio-link.com](#) (if applicable)
-
----
-<!--
-### 🛠️ **Current Projects:**
-
-- 🚀 **Project 1**: [Project Name](#) - Description of the project with some notable features.
-- 💡 **Project 2**: [Project Name](#) - A short project description and what you're working on.
-
 ---
 
-### 👨‍💻 **More about me:**
-I'm constantly improving my skills in Full-Stack development with the latest frameworks and libraries. I'm passionate about cloud computing, DevOps, and creating scalable, secure applications. I love collaborating with other developers and learning new things every day. Feel free to check out my repositories!
-
----
-
-### 🎯 **Fun fact**:
-I also enjoy solving **algorithm challenges** in my free time, and you might find some of my solutions in my repositories!
--->
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m4rk0sdaw&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
